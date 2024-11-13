@@ -686,8 +686,6 @@ Bootstrap 5 proporciona estilos y clases que mejoran la validación de formulari
 
 Combinar la validación HTML5 con la validación personalizada de JavaScript permite una validación de formularios más flexible y completa. Este enfoque híbrido asegura que las validaciones básicas sean manejadas por HTML5 mientras que los requisitos más complejos o específicos se gestionen con JavaScript.
 
-### 4.5 **Validación utilizando bibliotecas JS**
-
 ## 5. **Expresiones regulares (regex)**
 
 Las expresiones regulares, o regex, son patrones utilizados para coincidir combinaciones de caracteres en cadenas. En JavaScript, el regex se implementa utilizando el objeto [`RegExp`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions) o a través de literales de regex.
